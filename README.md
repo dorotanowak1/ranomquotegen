@@ -14,3 +14,4 @@ Technologies used: Vanilla Javascript, HTML5, CSS3
 <li>The quotes should be relatively coherent (no exclamation points in the middle of a sentence, for example)</li>
 </ul>
 
+https://dorotanowak1.github.io/ranomquotegen 
